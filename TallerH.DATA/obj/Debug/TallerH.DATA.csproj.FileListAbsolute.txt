@@ -1,0 +1,13 @@
+F:\Taller_Hernandez\Taller_Hernandez\TallerH.DATA\bin\Debug\TallerH.DATA.dll.config
+F:\Taller_Hernandez\Taller_Hernandez\TallerH.DATA\bin\Debug\TallerH.DATA.dll
+F:\Taller_Hernandez\Taller_Hernandez\TallerH.DATA\bin\Debug\TallerH.DATA.pdb
+F:\Taller_Hernandez\Taller_Hernandez\TallerH.DATA\bin\Debug\ServiceStack.Interfaces.dll
+F:\Taller_Hernandez\Taller_Hernandez\TallerH.DATA\obj\Debug\TallerH.DATA.dll
+F:\Taller_Hernandez\Taller_Hernandez\TallerH.DATA\obj\Debug\TallerH.DATA.pdb
+F:\Taller_Hernandez\Taller_Hernandez\TallerH.DATA\obj\Debug\TallerH.DATA.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\ProyectoFinal-BK\Taller_Hernandez\Taller_Hernandez\TallerH.DATA\bin\Debug\TallerH.DATA.dll.config
+C:\Users\USUARIO\Desktop\ProyectoFinal-BK\Taller_Hernandez\Taller_Hernandez\TallerH.DATA\bin\Debug\TallerH.DATA.dll
+C:\Users\USUARIO\Desktop\ProyectoFinal-BK\Taller_Hernandez\Taller_Hernandez\TallerH.DATA\bin\Debug\TallerH.DATA.pdb
+C:\Users\USUARIO\Desktop\ProyectoFinal-BK\Taller_Hernandez\Taller_Hernandez\TallerH.DATA\obj\Debug\TallerH.DATA.dll
+C:\Users\USUARIO\Desktop\ProyectoFinal-BK\Taller_Hernandez\Taller_Hernandez\TallerH.DATA\obj\Debug\TallerH.DATA.pdb
+C:\Users\USUARIO\Desktop\ProyectoFinal-BK\Taller_Hernandez\Taller_Hernandez\TallerH.DATA\obj\Debug\TallerH.DATA.csprojResolveAssemblyReference.cache
